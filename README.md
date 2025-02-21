@@ -6,7 +6,7 @@ Turning Data into Life-Saving Insights
 
 Road accidents continue to pose a major challenge worldwide, affecting millions of lives and causing significant economic losses. Leveraging data science and analytics, we can uncover critical patterns that inform better road safety policies and interventions.
 
-## Key Findings from My Analysis:
+## Key Findings from My Analysis
  📌 Data Preprocessing & Cleaning – Ensuring data accuracy by handling missing values and inconsistencies.
 
  📌 Accident Trends – Identifying high-risk time periods, locations, and external factors contributing to accidents.
