@@ -1,4 +1,6 @@
 # Road-Accident-Survival
+
+I analyzed the accident dataset to gain insights into accident trends, causes,and severity levels. The Project will cover data cleaning, visualization and basic statistical analysis.
 ## Road Accident Data Analysis
 Turning Data into Life-Saving Insights
 
