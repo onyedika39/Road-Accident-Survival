@@ -1,4 +1,5 @@
 # !🚑 [Road Accident Survival Analysis (Python EDA)](https://github.com/onyedika39/Road-Accident-Survival/blob/main/dataset_cover.jpg)
+
 ## Overview
 This project explores **factors associated with survival in road accidents** using a structured tabular dataset.  
 The analysis is implemented end-to-end in a Jupyter Notebook using **Python, Pandas, NumPy, Matplotlib, and Seaborn**.
