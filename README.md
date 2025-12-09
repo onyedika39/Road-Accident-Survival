@@ -110,9 +110,3 @@ These plots give a fast, interpretable view of how different factors are related
 ---
 
 
-# Install dependencies (example)
-pip install -r requirements.txt
-
-# Start Jupyter
-jupyter notebook
-# Open the Road_Accident_Survival_Dataset.ipynb notebook and run all cells.
