@@ -2,6 +2,10 @@
 
 Python notebook analyzing road accident survival outcomes, accident trends, causes, and severity levels.
 
+## Project Type
+
+Data analytics and business intelligence portfolio project.
+
 ## Objective
 
 This project is organized as a portfolio case study to show the full analysis workflow: understanding the business problem, preparing the data, exploring patterns, building the final output, and communicating insights clearly.
@@ -51,4 +55,5 @@ Screenshots and a PDF report are included as supporting analysis outputs.
 ## Author
 
 Created by Michael Kenechukwu as part of a data analytics and business intelligence portfolio.
+
 
